@@ -1,1 +1,1 @@
-
+How components get together
